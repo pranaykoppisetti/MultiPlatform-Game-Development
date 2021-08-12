@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4c2fb629ba79f84c90fc3cbb64e3606
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lowAccelClip: {fileID: 8300000, guid: 10cf1af832534f9478278b92477ea217, type: 3}
+  - lowDecelClip: {fileID: 8300000, guid: 10cf1af832534f9478278b92477ea217, type: 3}
+  - highAccelClip: {fileID: 8300000, guid: 0802c43d7183d204fafbf3c577265155, type: 3}
+  - highDecelClip: {fileID: 8300000, guid: fb1dcf86ddcde774896bc4574ab89d98, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
