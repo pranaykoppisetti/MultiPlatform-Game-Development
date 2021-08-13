@@ -1,5 +1,7 @@
 # MultiPlatform-Game-Development
 
+------Main game file can be accessed under Game folder------
+
 Reuse attributes:
 Scripts:
 The following scrips are the part of Standard Assets provided by unity
